@@ -6,3 +6,7 @@ This will take all text, turn all hyphens into spaces, remove all punctuation, t
 You can also set the flag `--fgwiki` which will specify that the text comes from the [family guy wiki.](https://familyguy.fandom.com/wiki/Main_Page)
 This special option does it's best to remove the names of the characters speaking from the text!
 Please keep in mind though that it probably can't be perfect so make sure it's not missing any text that might come before a colon.
+
+---
+
+I might decide to add some more nonsense later to automatically update my discord bio when I do this so I can sink even further into my couch and never touch grass again. Who knows.
